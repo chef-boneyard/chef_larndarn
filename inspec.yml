@@ -1,0 +1,10 @@
+name: chef_larndarn
+title: Chef Summit
+maintainer: Yvo Van Doorn
+copyright: Chef Software, Inc.
+copyright_email: support@chef.io
+license: Proprietary, All rights reserved
+summary: Verify that Apache2 HTTP Server is configured securely
+version: 1.0.1
+supports:
+  - os-family: unix
